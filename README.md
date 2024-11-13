@@ -22,7 +22,7 @@ go build -o gtools
 ./gtools help
 ```
 
-> **Note**: Make sure you have [Go installed](https://golang.org/doc/install)(version 1.16 or later is recommended)
+> **Note**: Make sure you have [Go installed](https://golang.org/doc/install) (version 1.16 or later is recommended)
 
 ## Usage
 
